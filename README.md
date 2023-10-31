@@ -1,1 +1,1 @@
-[my resume link](https://github.com/Rohitilak/Rohit-tilak.git)
+[my resume link]( https://rohitilak.github.io/Rohit-tilak/)
